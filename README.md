@@ -1,4 +1,10 @@
-### Hi there 👋
+# **Seja bem vindo**! 👋
+
+### Desenvolvedor Java jr Full Stack
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauricio-rodrigues-brito-de-deus-b457b1152//)](https://www.linkedin.com/in/mauricio-rodrigues-brito-de-deus-b457b1152/)
+
+
 
 <!--
 **MauricioRodriguesBD/MauricioRodriguesBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
